@@ -1,0 +1,7 @@
+1. Gauge the market.
+
+2. look at historical data and use it to analyze the current security under the microscope.
+
+3. Try to figure out which features predominantly effect the process of IOI to trade conversion. (This can vary across bond types)
+
+4. Once we identify the potential IOIs , try to fit them in a optimizer that can select the best instrument and henceforth maintaining the analytics of the fund
